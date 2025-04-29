@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "OnePlus Nord 3 5G";
-const char* password = "a3gaim9t";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 // MQTT Broker address
 const char* mqtt_server = "192.168.107.6";
